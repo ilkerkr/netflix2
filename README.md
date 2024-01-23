@@ -1,27 +1,38 @@
-Project-001 :Survey Form (HC-01)
-Description
+# Project-001 :Survey Form (HC-01)
+
+## Description
+
 Project aims to create survey form within html and css.
-Project Skeleton
+
+## Project Skeleton
+
+```
 001-survey-form (folder)
 |
 |----readme.md                  
 |----solution
         |----index.html  
-        |----style.css 
-Objective
+        |----style.css  
+```
+
+## Objective
+
 Functionally create a Survey Form as in the image above
-At the end of the project, following topics are to be covered;
-HTML Forms-Input Types
 
-HTML Form Elements
+### At the end of the project, following topics are to be covered;
 
-CSS Colors-Border Properties
+- HTML Forms-Input Types
+  
+- HTML Form Elements
 
-CSS Margins-Padding
+- CSS Colors-Border Properties
 
-CSS Properties for Texts-Font Families-Links
+- CSS Margins-Padding
 
-At the end of the project, students will be able to;
-improve coding skills within HTML & CSS
+- CSS Properties for Texts-Font Families-Links
 
-use git commands (push, pull, commit, add etc.) and Github as Version Control System.
+### At the end of the project, students will be able to;
+
+- improve coding skills within HTML & CSS
+
+- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
