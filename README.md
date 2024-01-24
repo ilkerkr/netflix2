@@ -1,3 +1,7 @@
+![Netflix project](C:\Users\fb_il\OneDrive\Masaüstü\NETFLİX.gif)
+
+[👉 click here to login Netflix](https://ilkerkr.github.io/netflix2/)
+
 # Project-001 :Survey Form (HC-01)
 
 ## Description
