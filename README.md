@@ -1,8 +1,8 @@
+# Survey Form
+
 ![Netflix](./img/NETFLİX.gif)
 
 [👉 click here to login Netflix](https://ilkerkr.github.io/netflix2/)
-
-# Project-001 :Survey Form (HC-01)
 
 ## Description
 
