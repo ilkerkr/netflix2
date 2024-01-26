@@ -34,9 +34,3 @@ Functionally create a Survey Form as in the image above
 - CSS Margins-Padding
 
 - CSS Properties for Texts-Font Families-Links
-
-### At the end of the project, will be able to;
-
-- improve coding skills within HTML & CSS
-
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
